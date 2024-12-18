@@ -1,0 +1,7 @@
+com\example\services\UserService.class
+com\example\MyApplication.class
+com\example\pages\LoginPage.class
+com\example\pages\HelloPage.class
+com\example\config\SpringConfig.class
+com\example\model\User.class
+com\example\pages\LoginPage$1.class
